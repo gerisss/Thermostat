@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fonction_base_de_données.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}
